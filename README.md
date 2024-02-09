@@ -15,5 +15,5 @@ Hi, I’m Actival7.
   />
   <img src="https://github-readme-stats.vercel.app/api?username=Actival7&show_icons=true" />
 </picture>
-![Actival7's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Actival7&show_icons=true)
 </div>
+![Actival7's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Actival7&show_icons=true)
