@@ -16,3 +16,5 @@ Hi, I’m Actival7.
   <img src="https://github-readme-stats.vercel.app/api?username=Actival7&show_icons=true" />
 </picture>
 </div>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
