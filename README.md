@@ -15,7 +15,5 @@ Hi, I’m Actival7.
   />
   <img src="https://github-readme-stats.vercel.app/api?username=Actival7&show_icons=true" />
 </picture>
-</div>
-
 ![Actival7's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Actival7&show_icons=true)
-![Actival7's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Actival7&size_weight=0.5&count_weight=0.5&langs_count=20)
+</div>
